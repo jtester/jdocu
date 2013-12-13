@@ -1,0 +1,3 @@
+[submodule "repos/jtester-jissues"]
+	path = repos/jtester-jissues
+	url = https://github.com/jtester/jissues.git
