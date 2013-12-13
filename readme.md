@@ -1,0 +1,1 @@
+Joomla! documentation TEST
